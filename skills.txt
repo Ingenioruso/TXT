@@ -1,0 +1,14 @@
+Hard skills by Vadim Ksendzov's course
+
+1.	Postman
+2.	Charles
+3.	Fiddler
+4.	DevTools
+5.	Android studio
+6.	ADB
+7.	Terminal Linux
+8.	SQL
+9.	Postgres
+10.	Redis
+11.	Jmeter
+12.	Python
