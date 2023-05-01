@@ -1,1 +1,15 @@
+Bug-report
 
+№: DL_01
+Title: Белый экран при клике Бесплатный сундук в магазине
+Environment: Huawei P30 Pro Android 12
+Precondition: None
+Inputs: Login 1 Pass 123
+Steps to reproduce: 
+    1) Зайти в магазин.
+    2) Кликнуть Бесплатный сундук.
+Expected result: Заставка с количеством полученных бриллиантов
+Actual result: Белый экран
+Severity: Major
+Priority: Medium
+Attachments: None
